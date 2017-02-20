@@ -1,0 +1,1 @@
+l=gets.to_i;$><<gets[0,l]

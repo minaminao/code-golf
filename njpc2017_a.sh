@@ -1,0 +1,1 @@
+read l;cut -b-$l
