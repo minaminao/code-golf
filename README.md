@@ -1,1 +1,1 @@
-# code-golf
+# Code golf
