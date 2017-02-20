@@ -1,0 +1,1 @@
+fn i()->i32{let mut s=String::new();std::io::stdin().read_line(&mut s);s.trim().parse().unwrap()}fn main(){println!("{}",i()-i())}
