@@ -1,0 +1,1 @@
+say (get/25).floor
