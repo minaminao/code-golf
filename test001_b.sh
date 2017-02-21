@@ -1,0 +1,1 @@
+read a;tr -d $a
