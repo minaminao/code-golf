@@ -1,0 +1,1 @@
+read;awk a[\$0]++|wc -l
