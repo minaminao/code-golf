@@ -1,0 +1,1 @@
+NR>2{b+=$0-a}{RS=FS;a=$0}END{print b/(NR-2)}
