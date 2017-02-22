@@ -1,1 +1,1 @@
-BEGIN{RS=FS}$0=length($1)>length($2)?$1:$2
+BEGIN{RS=0}$0=length($1)>length($2)?$1:$2

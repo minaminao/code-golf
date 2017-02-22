@@ -1,0 +1,1 @@
+BEGIN{RS=FS}$0=substr($1,$2,1)
