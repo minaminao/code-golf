@@ -1,0 +1,1 @@
+NR<2{K=$2}NR>1{(s+=$0)<K?a=NR:0}END{print a}
