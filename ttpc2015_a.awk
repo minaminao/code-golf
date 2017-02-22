@@ -1,0 +1,1 @@
+$0=($0~"B"?"Bachelo":$0~"M"?"Maste":"Docto")"r "substr($0,1,2)

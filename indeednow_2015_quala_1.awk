@@ -1,0 +1,1 @@
+BEGIN{RS=FS}$0=length($1)*length($2)

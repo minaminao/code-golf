@@ -1,0 +1,1 @@
+{for(;i<51;i+=$0)print substr("DiscoPresentsDiscoveryChannelProgrammingContest2016",i+1,$0)}

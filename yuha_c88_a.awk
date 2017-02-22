@@ -1,0 +1,1 @@
+NR>1{a=a substr($3,$1~"B"?1:$1~"M"?length($3RS)/2:length($3),1)}END{print a}

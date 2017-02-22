@@ -1,0 +1,1 @@
+seq $[`dd`-1]|factor|awk NF==2|wc -l
