@@ -1,0 +1,1 @@
+NR<2{RS=FS;N=$0}NR>1{$0?a+=$0:N--}END{print int(a/N+.9)}

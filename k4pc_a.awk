@@ -1,0 +1,1 @@
+NR>1{if(0<b=$0-NR+1)x+=b}END{print x}
