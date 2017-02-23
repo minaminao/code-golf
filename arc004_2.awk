@@ -1,0 +1,1 @@
+NR>1{s+=$0;m=m<$0?$0:m}END{print s RS(m+m>s?m+m-s:0)}

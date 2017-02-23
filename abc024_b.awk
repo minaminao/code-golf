@@ -1,0 +1,1 @@
+NR<2{T=$2}NR>1{a+=T-(s-$0)*($0<s);s=$0+T}END{print a}
