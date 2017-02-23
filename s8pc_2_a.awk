@@ -1,0 +1,1 @@
+BEGIN{FS="O+"}$0=NF*2-!!NF a
