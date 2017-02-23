@@ -1,0 +1,1 @@
+{FS="(toko|kyot)o"}$0=NR>1?NF-1o:0
