@@ -1,0 +1,2 @@
+/[aiueo]/cvowel
+cconsonant
